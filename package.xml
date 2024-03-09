@@ -19,6 +19,8 @@
   <exec_depend>turtlebot3_cartographer</exec_depend>
   <exec_depend>turtlebot3_navigation2</exec_depend>
 
+  <exec_depend>ros2_msgs</exec_depend>
+
   <exec_depend>std_msgs</exec_depend>
   <exec_depend>geometry_msgs</exec_depend>
   <exec_depend>visualization_msgs</exec_depend>
